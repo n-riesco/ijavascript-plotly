@@ -1,0 +1,23 @@
+{
+    "name": "ijavascript-plotly",
+    "version": "0.0.1",
+    "description": "IJavascript wrapper for Plotly",
+    "keywords": [
+        "jupyter",
+        "ijavascript",
+        "plotly"
+    ],
+    "license": "Apache-2.0",
+    "author": {
+        "author": "Nicolas Riesco",
+        "email": "enquiries@nicolasriesco.net",
+        "url": "http://www.nicolasriesco.net/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/n-riesco/ijavascript-plotly.git"
+    },
+    "bugs": {
+        "url": "https://github.com/n-riesco/ijavascript-plotly/issues"
+    }
+}
